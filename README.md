@@ -1,7 +1,9 @@
 display: flex (parent)
+
 flex-direction (parent)
 
 order (child)
+
 flex-grow (child)
 
 justify-content (parent)
